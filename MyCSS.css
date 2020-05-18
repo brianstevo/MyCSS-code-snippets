@@ -23,7 +23,9 @@ li {
 a {
   text-decoration: none;
 }
-
+a:hover {
+ border-bottom: 1px solid black;
+}
 .container {
   width: 1170px;
   padding: 0 15px;
